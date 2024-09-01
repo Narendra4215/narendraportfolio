@@ -4,22 +4,22 @@ import './Education.css'; // Import the CSS file
 const Education = () => {
   const educationDetails = [
     {
-      degree: 'B.Tech',
-      college: 'ABC Institute of Technology',
-      startYear: 2018,
+      degree: 'B-Tech',
+      college: 'Mekapati Rajamohan Reddy  Institute of Technology and science',
+      startYear: 2019,
       endYear: 2022,
     },
     {
       degree: 'Diploma',
-      college: 'XYZ Polytechnic College',
-      startYear: 2015,
-      endYear: 2018,
+      college: 'Govt. Polytechnic College',
+      startYear: 2016,
+      endYear: 2019,
     },
     {
       degree: 'SSC',
-      college: 'PQR High School',
-      startYear: 2013,
-      endYear: 2015,
+      college: 'Sri Sai High School',
+      startYear: 2015,
+      endYear: 2016,
     },
   ];
 
